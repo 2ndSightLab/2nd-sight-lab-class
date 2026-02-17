@@ -2,15 +2,15 @@
 
 Read all the caveats about these class materials and class labs in these posts.
 
-##Class Slides:
+## Class Slides:
 
 https://teriradichel.substack.com/p/cloud-security-class-slides
 
-##Class Labs
+## Class Labs
 
 https://teriradichel.substack.com/p/cloud-security-class-labs
 
-##Class Lab Code:
+## Class Lab Code:
 
 https://teriradichel.substack.com/p/cloud-security-class-lab-code
 
