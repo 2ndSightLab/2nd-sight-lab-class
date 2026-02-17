@@ -11,6 +11,7 @@ https://teriradichel.substack.com/p/cloud-security-class-slides
 https://teriradichel.substack.com/p/cloud-security-class-labs
 
 ##Class Lab Code:
+
 https://teriradichel.substack.com/p/cloud-security-class-lab-code
 
 ##Shout out
