@@ -17,6 +17,9 @@ https://teriradichel.substack.com/p/cloud-security-class-lab-code
 ##Shout out
 
 If you use any of this material all I ask is a shout out to follow me on social media and my blog. Thanks!
+
+@teriradichel on most social media platforms.
+
 https://teriradichel.substack.com/
 
 
